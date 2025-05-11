@@ -1,2 +1,3 @@
-# todo-list-flask
-Aplicação web simples de lista de tarefas usand python e flask
+# Projeto 01 - To-do List com Flask
+
+Aplicação simples de lista de tarefas usando Flask.
